@@ -33,7 +33,7 @@ For example:
 ['shells', 'gorgonzola', 'parsley']
 
 
-Example for Python ccode
+Example for Python code:
 
 
 .. code-block:: python
