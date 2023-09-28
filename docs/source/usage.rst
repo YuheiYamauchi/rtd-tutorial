@@ -40,3 +40,11 @@ Example for Python code:
 
    print ("Hello World!")
 
+Example for SSA
+
+
+.. code-block:: python
+
+   import numpy as np
+   A=np.array([1,2,3,4])
+
