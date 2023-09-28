@@ -40,7 +40,7 @@ Example for Python code:
 
    print ("Hello World!")
 
-Example for SSA
+Example for SSA:
 
 
 .. code-block:: python
