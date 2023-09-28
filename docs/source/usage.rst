@@ -32,3 +32,9 @@ For example:
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
 
+
+Example for Python ccode
+.. code-block:: python
+
+   print ("Hello World!")
+
